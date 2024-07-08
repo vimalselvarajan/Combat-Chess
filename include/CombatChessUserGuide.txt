@@ -1,0 +1,11 @@
+Welcome to Combat Chess!
+In this local, two-player game, you play a slightly more gritty and realistic version of chess. 
+The game begins as normal chess, the first player to go is white, the second player is black.
+Both players are to choose a piece to move and the new location of that piece. Be careful, as just like in the real battlefield, mistakes will cost you.
+In the event that the new location of your vassal is occupied by the enemy, you will enter a COMBAT SCENARIO.
+In it, you and your opponents will be presented with attack options. You will take turns viscously attack each other until one piece dies.
+This allows a pawn to possibly defeat an attacking queen!
+The game ends when the King dies in a combat scenario.
+If at any point the game must end, enter -1 as the next input enter 'Y' or 'y'. 
+Now, go get a friend (or enemy) and have some fun!
+
