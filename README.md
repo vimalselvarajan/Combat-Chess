@@ -7,7 +7,9 @@
 [Download Chess Crusaders](#downloading-chess-crusaders)    
 [Updating Chess Crusaders (for developers)](#updating-chess-crusaders-developer)    
 
-# Authors
+# Acknowledgements
+
+This project is a collaborative effort completed by myself and three other team members as part of our class assignment. Initially, the project was developed using our school GitHub accounts and kept private. Now, I am making this project publicly available on my personal GitHub account. I would like to acknowledge the contributions of my team members:
 
 [Justin Im](https://github.com/justin-h-im)
 
