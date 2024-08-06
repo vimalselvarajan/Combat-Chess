@@ -19,15 +19,6 @@ This project is a collaborative effort completed by myself and three other team 
 
 [Vimal Selvarajan](https://github.com/vselv001)
 
-## Game name ideas
-♔ **Clash of Chess** ♕ 
-
-♔ **Chess Crusaders** ♕
-
-♔ **Chess++** ♕
-
-
-
 Game Description
 ================
 
