@@ -164,20 +164,18 @@ UNICODE courtesy of https://www.unicode.org/charts/PDF/U2600.pdf.
 ![337556207-95adfb87-03f6-4b2c-a4c1-bec705582e4e](https://github.com/user-attachments/assets/1d163c03-9511-426a-80e1-796ebf10edfd)
 ![337633645-b60a7f4c-0542-4eab-ac12-e469e411fc10](https://github.com/user-attachments/assets/1b822491-ca2f-4c99-9d01-4fd8a67ca55a)
 
-
-
 ### Combat Scenarios
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/ea1b8a1d-55ac-41cf-abe9-46649cf0a982)
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/c5757ad3-4738-4961-aa3c-0fb7efda84a6)
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/03010b06-654d-4d09-a041-9432a206b676)
+![337633779-ea1b8a1d-55ac-41cf-abe9-46649cf0a982](https://github.com/user-attachments/assets/c9ef651a-2c83-4390-96f3-754cf88f93ae)
+![337633860-c5757ad3-4738-4961-aa3c-0fb7efda84a6](https://github.com/user-attachments/assets/ad2bcb17-db3d-4acd-8994-4dd2fe3de19a)
+![337633942-03010b06-654d-4d09-a041-9432a206b676](https://github.com/user-attachments/assets/36bf806f-0830-489b-ab08-af32d8195e9a)
 
 ### Mid-Game Quit
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/bf3fdb45-b1e4-4373-84a9-677985aab2c6)
+![337634418-bf3fdb45-b1e4-4373-84a9-677985aab2c6](https://github.com/user-attachments/assets/fecd494a-c305-4616-8143-7a4834d276e2)
 
 ### Victory Attained!
 
 ### UML Diagram
-![UML drawio](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/166081771/253fd69c-3e56-42ce-9a0c-1afc299ce382)
+![337625659-253fd69c-3e56-42ce-9a0c-1afc299ce382](https://github.com/user-attachments/assets/098245bc-db9a-44ef-b328-0cae7c5f1772)
 
 ## Class Descriptions
 The Game class keeps track of which player's turn it is along with if a player has won based on each of the king's health bars. The board class is responsible for storing the board in an 8 by 8 in a 2D array and telling other classes where pieces are on the board in order to determine valid player moves and piece interactions. The display class is responsible for printing all ASCII art. The UI class is responsible for interacting with the user including prompting them for coordinates, taking in their inputs, and outputting the outcome of their moves. The combat class is responsible for combat scenarios meaning it controls pieces' health, attack, and accuracy.
@@ -191,18 +189,14 @@ Our tests mainly used the google test suite. We started by testing the smaller c
  integration tests held by UI. Since UI is heavily dependent on user input because it acts as a user interface, all of the user inputs are simulated with text files that hold commands.  
  The unit tests would read through those text files to get input for the tests. We also utilized gcov and lcov to gain understandings of what our code was missing during the unit tests.   In between, we used Valgrind to locate memory errors and check that the program has no memory leaks, or memcheck--clean. As a final check, we ran a .yml workflow that will run the program through tests during pushes. The .yml workflow will trigger whenever there is a push or pull from main. 
  ### The Valgrind Results
- ![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/c8a02e60-5464-4a1d-a1ce-a5872aee35f7)  
- ### The GCOV and LCOV Results
- ![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/c18228e1-a37a-4b14-aa04-4a774a6fac69)  
+![337729605-c8a02e60-5464-4a1d-a1ce-a5872aee35f7](https://github.com/user-attachments/assets/c43d7bd4-e780-40d2-a9fc-93ff6cedf559)
 
+ ### The GCOV and LCOV Results
+![341579340-c18228e1-a37a-4b14-aa04-4a774a6fac69](https://github.com/user-attachments/assets/b4255b28-b87f-429c-bb09-a77e621353c5)
 
 Downloading Chess Crusaders
 ===========================
 Hi there!
-
-Before we start, please navigate to our Google Drive containing the game.
-
-[Click here to download Chess Crusaders!](https://drive.google.com/drive/folders/1xPG693grDS8F_R7MQ1X-C0YWTCdH_U1N?usp=drive_link)
 
 Once successfully navigated, press "Download all" on the top right of the page.
 
