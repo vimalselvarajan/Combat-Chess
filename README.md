@@ -127,8 +127,8 @@ The Select Piece Screen is the same for both users. The user is prompted to choo
 The Move Piece Screen is also the same for both users. The user is prompted to choose the new location of the piece that they want to move.  
 The Combat Scenario Screen activates based on whether or not the new location is occupyed by an opposing piece. The screen features the white piece on the left and the black piece on the right, with their healthbars listed underneath each piece.  
 The Combat Move Screens are the same for both users, appearing based on alternating turns. The screen lists possible moves that the user can take to deal damage to the opposing piece. The screen then changes for the opposing player, since the fighting pieces may have differing movesets.  
-The Game Over Screen presents the user with a "GAME OVER" message. Underneath, there is a statement that declares victory to the winning player.  
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/07d154ea-4a2a-4514-9b65-9855f05291b1)
+The  Game Over Screen presents the user with a "GAME OVER" message. Underneath, there is a statement that declares victory to the winning player.  
+![332279019-07d154ea-4a2a-4514-9b65-9855f05291b1](https://github.com/user-attachments/assets/cc9a874c-4b79-4a65-ac72-469adac36ae2)
 ### Screen Layouts
 Combat Chess is entirely terminal run. As such, the graphical interface is done entirely throught text and ASCII characters. User input is typically done through numerical input.
 Menu: Presents the user with options to begin the game, review the game manual, or quit the game.  
