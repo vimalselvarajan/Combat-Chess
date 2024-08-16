@@ -160,6 +160,11 @@ UNICODE courtesy of https://www.unicode.org/charts/PDF/U2600.pdf.
 
 ### Piece Navigation
 ![337555893-c90772c5-1666-4995-b6bb-1244e8931ab3](https://github.com/user-attachments/assets/7dfc9e8f-fd10-4231-856f-f5a9cd138a81)
+![337556015-008c798b-2712-40ce-a551-a9fa1f5fda55](https://github.com/user-attachments/assets/07c7c07d-e582-42e0-8019-6e5b1b405e41)
+![337556207-95adfb87-03f6-4b2c-a4c1-bec705582e4e](https://github.com/user-attachments/assets/1d163c03-9511-426a-80e1-796ebf10edfd)
+![337633645-b60a7f4c-0542-4eab-ac12-e469e411fc10](https://github.com/user-attachments/assets/1b822491-ca2f-4c99-9d01-4fd8a67ca55a)
+
+
 
 ### Combat Scenarios
 ![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/ea1b8a1d-55ac-41cf-abe9-46649cf0a982)
