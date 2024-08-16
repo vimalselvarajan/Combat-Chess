@@ -142,11 +142,13 @@ Move Piece: Prompts the user to choose the new location of the selected piece.
 Combat Scenario: Introduces the combat scenario with the dueling pieces.  
 ![332577788-c03277c9-3928-4ffd-88ce-94d5af870372](https://github.com/user-attachments/assets/7bbb48df-a40d-40e8-a07f-6b0774546d0e)
 Combat Move: Prompts both users for moves and performs combat actions based on the user turn and their chosen input.  
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/79a8ae7a-cffa-4753-ac7a-ef8d259cc9c4)  
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/c207936a-d96b-4043-a494-2f2de10b956e)  
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/6262995b-7590-498d-8c19-62685e872229)  
+![332579201-79a8ae7a-cffa-4753-ac7a-ef8d259cc9c4](https://github.com/user-attachments/assets/fa662c1b-961b-4bed-848b-c38259e8c191)
+![332579307-c207936a-d96b-4043-a494-2f2de10b956e](https://github.com/user-attachments/assets/ee6da2cc-46af-49f3-a940-0cf1e3636519)
+![332579307-c207936a-d96b-4043-a494-2f2de10b956e](https://github.com/user-attachments/assets/7f2f395c-d6e4-4daf-b9c0-6dd3dd2894c9)
 Game Over: Display a "GAME OVER" screen and declare the victor of the game. 
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/6356b397-ad4e-4c96-b670-949561212365)  
+
+
+
 UNICODE courtesy of https://www.unicode.org/charts/PDF/U2600.pdf.  
 
 ## Output Screenshots
