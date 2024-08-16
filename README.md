@@ -146,22 +146,20 @@ Combat Move: Prompts both users for moves and performs combat actions based on t
 ![332579307-c207936a-d96b-4043-a494-2f2de10b956e](https://github.com/user-attachments/assets/ee6da2cc-46af-49f3-a940-0cf1e3636519)
 ![332579307-c207936a-d96b-4043-a494-2f2de10b956e](https://github.com/user-attachments/assets/7f2f395c-d6e4-4daf-b9c0-6dd3dd2894c9)
 Game Over: Display a "GAME OVER" screen and declare the victor of the game. 
-
+![332582061-6356b397-ad4e-4c96-b670-949561212365](https://github.com/user-attachments/assets/316b8b8c-2606-4b0d-9d0e-9c003325a9a4)
 
 
 UNICODE courtesy of https://www.unicode.org/charts/PDF/U2600.pdf.  
 
 ## Output Screenshots
 ### Start Menu
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/1827e1a1-d86c-48fe-b218-550fced720a6)
+![337634190-1827e1a1-d86c-48fe-b218-550fced720a6](https://github.com/user-attachments/assets/5941404f-7237-4657-a756-169aa607aff1)
 
 ### User Guide
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/0358518c-42b7-46f8-88c0-fc4638a6fca0)
+![337634612-0358518c-42b7-46f8-88c0-fc4638a6fca0](https://github.com/user-attachments/assets/97759624-1cff-41a5-8bfa-9c960baca643)
 
 ### Piece Navigation
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/c90772c5-1666-4995-b6bb-1244e8931ab3) ![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/008c798b-2712-40ce-a551-a9fa1f5fda55)  
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/95adfb87-03f6-4b2c-a4c1-bec705582e4e)  
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/b60a7f4c-0542-4eab-ac12-e469e411fc10)
+![337555893-c90772c5-1666-4995-b6bb-1244e8931ab3](https://github.com/user-attachments/assets/7dfc9e8f-fd10-4231-856f-f5a9cd138a81)
 
 ### Combat Scenarios
 ![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/ea1b8a1d-55ac-41cf-abe9-46649cf0a982)
