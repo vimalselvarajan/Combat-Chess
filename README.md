@@ -132,15 +132,15 @@ The  Game Over Screen presents the user with a "GAME OVER" message. Underneath, 
 ### Screen Layouts
 Combat Chess is entirely terminal run. As such, the graphical interface is done entirely throught text and ASCII characters. User input is typically done through numerical input.
 Menu: Presents the user with options to begin the game, review the game manual, or quit the game.  
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/24bc81f2-dc31-443e-9d18-4f89ccc4186c)  
+![332576762-24bc81f2-dc31-443e-9d18-4f89ccc4186c](https://github.com/user-attachments/assets/4353ba98-8ae1-4091-bcd4-c1708a4fcc30)
 Display User Guide: Presents the user with a user guide in terminal. The user may press "q" to quit.  
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/05f2702e-6a9e-44da-a8ee-c194c0e8d4cc)  
+![332584642-05f2702e-6a9e-44da-a8ee-c194c0e8d4cc](https://github.com/user-attachments/assets/ac92471d-6f70-4f14-a726-e4dee6158d57)
 Select Piece: Prompts the user to choose the location of the piece to be moved.  
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/6f93570d-6a5c-4c8a-be86-155ec31ee861)  
+![332577270-6f93570d-6a5c-4c8a-be86-155ec31ee861](https://github.com/user-attachments/assets/52faa2f8-3af0-4367-9748-6b5778de2cdb)
 Move Piece: Prompts the user to choose the new location of the selected piece.  
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/43010332-6722-4239-8e94-60ad777b562e)  
+![332577325-43010332-6722-4239-8e94-60ad777b562e](https://github.com/user-attachments/assets/d25aa0dc-7259-4009-9a9c-bb29a71c810d)
 Combat Scenario: Introduces the combat scenario with the dueling pieces.  
-![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/c03277c9-3928-4ffd-88ce-94d5af870372)
+![332577788-c03277c9-3928-4ffd-88ce-94d5af870372](https://github.com/user-attachments/assets/7bbb48df-a40d-40e8-a07f-6b0774546d0e)
 Combat Move: Prompts both users for moves and performs combat actions based on the user turn and their chosen input.  
 ![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/79a8ae7a-cffa-4753-ac7a-ef8d259cc9c4)  
 ![image](https://github.com/cs100/final-project-mhsie026-jim023-anels048-vselv001/assets/93964548/c207936a-d96b-4043-a494-2f2de10b956e)  
